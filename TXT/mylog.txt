@@ -4,3 +4,6 @@
 ZCZC W00 100 L02 Attended class on Monday
 ZCZC W00 40 L03 Made Github repo and other stuff
 ZCZC W00 15 L04 Made the Github Page
+ZCZC W00 100 L02 Attended class on Wednesday
+ZCZC W00 13 L32 Watch Introduction to Linux and Basic Linux Commands for Beginners (13:56)
+ZCZC W00 30 L05 Studying, prepare for quiz w00
