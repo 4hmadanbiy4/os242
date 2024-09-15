@@ -8,4 +8,5 @@ permalink: LINKS/
  The Linux command line can be quite daunting. What do commands like ls, cd, pwd and less mean? When you see that blinking cursor, what is the first thing you should type?
  Find out more in my Linux terminal command and utilities tutorial.
 * [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) --- Cheat sheet bash
+* [Man Cheat Sheet](https://www.linuxtrainingacademy.com/man) --- Situs ini penting dan menarik karena menyediakan panduan definitif tentang halaman manual (man pages) di Linux.
 

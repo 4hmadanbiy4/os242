@@ -14,3 +14,9 @@ ZCZC W01 100 L02 Attended class on Wednesday
 ZCZC W01 40  L12 Assignment #02 - week01
 ZCZC W01 08  L05 Attended quiz session on Friday
 ZCZC W01 07  L32 Watch what is symbolic link and how to make one
+ZCZC W02 100 L02 Attended class on Monday
+ZCZC W02 100 L02 Attended class on Wednesday
+ZCZC W02 120 L05 Studying for Quiz w02
+ZCZC W02 20  L05 Attended quiz session on Friday
+ZCZC W02 240 L09 Assignment stuff
+
