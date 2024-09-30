@@ -11,3 +11,4 @@ permalink: LINKS/
 * [Man Cheat Sheet](https://www.linuxtrainingacademy.com/man) --- Situs ini penting dan menarik karena menyediakan panduan definitif tentang halaman manual (man pages) di Linux.
 * [Linux file system](https://phoenixnap.com/kb/linux-file-system) --- Situs phoenixNAP tentang sistem file Linux penting karena memberikan panduan komprehensif tentang bagaimana sistem file Linux bekerja, termasuk evolusi dan fitur utama dari sistem file seperti ext4.
 * [Library fuse](https://github.com/libfuse/libfuse) --- Situs libfuse di GitHub sangat penting karena menyediakan implementasi referensi untuk antarmuka FUSE (Filesystem in Userspace) di Linux.
+* [Linux Man Pages - A Quick Tutorial](https://youtu.be/uJnrh9hAQR0?si=KJrZsJZXQCjAt6x2) --- How to search through man pages to find the help (or command) you're looking for.

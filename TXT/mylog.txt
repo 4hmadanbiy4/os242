@@ -23,4 +23,10 @@ ZCZC W03 100 L02 Attended class on Wednesday
 ZCZC W03 60  L09 Do assignment
 ZCZC W03 50  L09 Continue the assignment
 ZCZC W03 40  L09 Finishing the assignment
+ZCZC W04 100 L02 Attended class on wednesday
+ZCZC W04 30  L05 Studying for Quiz w03
+ZCZC W04 20  L05 Attended quiz session on Friday
+ZCZC W04 40  L09 Do assignment
+ZCZC W04 50  L09 Continue the assignment
+ZCZC W04 110 L32 Watch regarding memory Pak M. Anwar Ma'sum's video (2021)
 
