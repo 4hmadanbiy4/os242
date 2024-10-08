@@ -29,4 +29,8 @@ ZCZC W04 20  L05 Attended quiz session on Friday
 ZCZC W04 40  L09 Do assignment
 ZCZC W04 50  L09 Continue the assignment
 ZCZC W04 110 L32 Watch regarding memory Pak M. Anwar Ma'sum's video (2021)
-
+ZCZC W05 100 L02 Attended class on wednesday
+ZCZC W05 30  L05 Studying for Quiz w04
+ZCZC W05 10  L05 Attended quiz session on Friday
+ZCZC W05 15  L09 Do assignment #01 and #02
+ZCZC W05 50  L09 Finish the assignment W05
