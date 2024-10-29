@@ -13,3 +13,4 @@ permalink: LINKS/
 * [Library fuse](https://github.com/libfuse/libfuse) --- Situs libfuse di GitHub sangat penting karena menyediakan implementasi referensi untuk antarmuka FUSE (Filesystem in Userspace) di Linux.
 * [Linux Man Pages - A Quick Tutorial](https://youtu.be/uJnrh9hAQR0?si=KJrZsJZXQCjAt6x2) --- How to search through man pages to find the help (or command) you're looking for.
 * [Physical vs. Virtual Memory](https://www.baeldung.com/cs/physical-vs-virtual-memory) --- all about physical and virtual memory in one page
+* [Vim Basics](https://youtu.be/ggSyF1SVFr4?si=J8_XKPxVu63ntte_) --- Learn the basics you need to start editing text in vi or vim.
