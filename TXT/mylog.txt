@@ -38,3 +38,5 @@ ZCZC W06 100 L02 Attended class on wednesday
 ZCZC W06 15  L09 Do some assignment
 ZCZC W06 100 L02 Attended class on monday
 ZCZC W06 20  L09 Finish the assignment
+ZCZC W07 100 L02 Attended class on wednesday
+ZCZC W07 10  L05 Attended Quiz 06 on friday
