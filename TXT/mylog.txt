@@ -41,3 +41,10 @@ ZCZC W06 20  L09 Finish the assignment
 ZCZC W07 100 L02 Attended class on wednesday
 ZCZC W07 30  L05 Studying for Quiz
 ZCZC W07 10  L05 Attended Quiz 06 on friday
+ZCZC W08 100 L02 Attended class on wednesday
+ZCZC W08 60  L32 Watch scheduling recording pak M. Anwar Ma'sum
+ZCZC W08 30  L05 Studying for Quiz
+ZCZC W08 10  L05 Attended Quiz session on friday night
+ZCZC W08 100 L02 Attended class on monday
+ZCZC W08 80  L32 Watch scheduling recording pak M. Anwar Ma'sum (B)
+ZCZC W08 40  L09 do assignment
